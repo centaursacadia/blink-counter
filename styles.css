@@ -1,0 +1,49 @@
+.whole{
+   color:#475AA9; 
+   background-color:#E2FFD1;
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+   font-size:20px;
+
+}
+.blink{
+    display:flex;
+    justify-content:center;
+    padding: 20px;
+        background-color:#C1F7BC;
+}
+.habiba{
+    display:flex;
+    justify-content:center;
+    padding: 10px;
+}.fifteen{
+    display:flex;
+    justify-content:center;
+    padding: 10px;
+}.brown{
+    display:flex;
+    justify-content:center;
+    padding: 10px;
+}.button{
+    display:flex;
+    justify-content:center;
+    padding: 20px;
+      
+}
+
+.box{
+    display:flex;
+    justify-content:center;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.result{
+       display:flex;
+    justify-content:center;
+    padding: 20px;
+    font-size:30px;
+ 
+}
+.times{
+    display:flex;
+    justify-content:center;
+    padding: 10px;
+}
